@@ -39,6 +39,8 @@ npm run dev (访问线上后台系统)
 # 部分截图
 
 
-<img src="https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/manage_home.png"/>
+<img src="https://github.com/xt981224/Vue-elementui/screenshots/zs1.jpg"/>
 
-<img src="https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/manage_shop.png"/>
+<img src="https://github.com/xt981224/Vue-elementui/screenshots/zs2.jpg"/>
+
+<img src="https://github.com/xt981224/Vue-elementui/screenshots/zs3.jpg"/>
