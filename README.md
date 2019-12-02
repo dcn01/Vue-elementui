@@ -39,8 +39,8 @@ npm run dev (访问线上后台系统)
 # 部分截图
 
 
-<img src="https://github.com/xt981224/Vue-elementui/screenshots/zs1.jpg"/>
+<img src="https://github.com/xt981224/Vue-elementui/blob/master/screenshots/zs1.jpg"/>
 
-<img src="https://github.com/xt981224/Vue-elementui/screenshots/zs2.jpg"/>
+<img src="https://github.com/xt981224/Vue-elementui/blob/master/screenshots/zs2.jpg"/>
 
-<img src="https://github.com/xt981224/Vue-elementui/screenshots/zs3.jpg"/>
+<img src="https://github.com/xt981224/Vue-elementui/blob/master/screenshots/zs3.jpg"/>
