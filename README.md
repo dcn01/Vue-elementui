@@ -18,6 +18,7 @@ npm install
 npm run dev (访问线上后台系统)
 
 访问: http://localhost:8002
+http://ht2.kwsport.cn
 
 ```
 
